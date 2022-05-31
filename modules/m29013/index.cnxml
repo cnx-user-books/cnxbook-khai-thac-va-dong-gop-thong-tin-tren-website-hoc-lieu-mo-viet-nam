@@ -1,0 +1,203 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Sử dụng Website với vai trò của Tác giả Module</title>
+  <metadata>
+  <md:content-id>m29013</md:content-id><md:title>Sử dụng Website với vai trò của Tác giả Module</md:title>
+  <md:abstract/>
+  <md:uuid>3d4274e5-45a2-4ed7-9951-680036bb9180</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-880047163996">
+      <title>Sử dụng Website với vai trò của Tác giả, Giảng viên</title>
+      <section id="id-769055013538">
+        <title>Đăng ký một tài khoản trên hệ thống</title>
+        <para id="id4155407"><figure id="id4155410"><media id="id1168515499240" alt=""><image src="../../media/graphics1-d7af.png" mime-type="image/png" height="216" width="193"/></media>
+   <caption> Chức năng đăng ký tài khoản </caption></figure>Để có thể có quyền thêm mới, cập nhật, chia sẻ, tái sử dụng nội dung thông tin trên hệ thống, người dùng cần đăng ký một tài khoản qua các bước đơn giản sau: </para>
+        <para id="id4202160">Bước 1: Từ khu vực số 6 trên trang chủ, nhấn chuột vào liên kết Get an account (Hình minh họa) </para>
+        <para id="id4202188">Bước 2: Cung cấp thông tin cá nhân theo yêu cầu:</para>
+        <para id="id4202202">Màn hình sau đây hiện ra yêu cầu người dùng nhập các thông tin cá nhân. Các mục có dấu vuông đỏ (FirstName, LastName, Email) là bắt buộc phải nhập. Hệ thống sẽ yêu cầu nhập cho đến khi các mục này được điền đầy đủ.</para>
+        <figure id="id4202222"><media id="id1168527152030" alt=""><image src="../../media/graphics2-2d56.png" mime-type="image/png" height="578" width="536"/></media>
+           <caption> Cung cấp thông tin cá nhân</caption></figure>
+        <para id="id4202246">Sau khi nhấn nút continue (Tiếp tục), màn hình sau hiện ra yêu cầu người dùng chọn một tên đăng nhập phù hợp (Hệ thống tự động gợi ý tên đăng nhập trùng với tên của địa chỉ E-mail).</para>
+        <para id="id4202269">Bước 3: Chọn username (tên đăng nhập)</para>
+        <figure id="id4202286"><media id="id1168521235975" alt=""><image src="../../media/graphics3-1c5e.png" mime-type="image/png" height="424" width="571"/></media>
+           <caption> Chọn tên đăng nhập </caption></figure>
+        <para id="id4157905">Sau đó tiếp tục nhấn nút Continue, màn hình xác nhận sau đây hiện ra, thông báo cho người dùng biết toàn bộ các thông tin cơ bản của người dùng như username, name, email và homepage đã được hệ thống tiếp nhận. Sau kiểm tra lại các thông tin này là chính xác, người dùng nhấn chuột vào nút request account (yêu cầu tài khoản)</para>
+        <para id="id4157951">Bước 4: Xác nhận thông tin tài khoản</para>
+        <figure id="id4157967"><media id="id1168527795676" alt=""><image src="../../media/graphics4-32da.png" mime-type="image/png" height="196" width="470"/></media>
+           <caption> Khẳng định việc đăng ký thành viên</caption></figure>
+        <para id="id4157991">Sau khi nhấn nút Request account, màn hình thông báo với nội dung như sau hiện ra</para>
+        <figure id="id4158012"><media id="id1168523027275" alt=""><image src="../../media/graphics5-18bf.png" mime-type="image/png" height="120" width="576"/></media>
+           <caption> Thông báo việc đăng ký hoàn tất </caption></figure>
+        <para id="id4158036">Bước 5: Mở hộp thư điện tử mà bạn đã đăng ký với hệ thống và thực hiện kích hoạt tài khoản theo hướng dẫn</para>
+        <para id="id4158053">Người dùng sẽ nhận được một email từ hệ thống và một số chỉ dẫn để có thể khởi tạo tài khoản và thiết lập mật khẩu đăng nhập tương ứng. Việc mở hộp thư, kiểm tra thư và thực hiện theo chỉ dẫn cần thực hiện trong vòng 24 tiếng kể từ lúc đăng ký.</para>
+        <figure id="id4158060"><media id="id1168519845910" alt=""><image src="../../media/graphics6-de3a.png" mime-type="image/png" height="293" width="600"/></media>
+           <caption> Mở hộp thư và kích hoạt theo hướng dẫn </caption></figure>
+        <para id="id4478939">Hình trên là nội dung email gửi tới hộp thư người dùng. Sau mở thư và nhấn chuột vào liên kết như yêu cầu, màn hình sau đây cho phép người dùng lựa chọn mật khẩu. </para>
+        <para id="id4478950">Bước 6: Lựa chọn mật khẩu cho tên đăng nhập</para>
+        <para id="id4478964">Người dùng nhập 2 lần mật khẩu này vào 2 ô password và chắc chắn rằng chúng giống hệt nhau, sau đó nhấn nút set my password</para>
+        <figure id="id4478983"><media id="id1168521151166" alt=""><image src="../../media/graphics7-1fd7.png" mime-type="image/png" height="407" width="518"/></media>
+           <caption> Lựa chọn mật khẩu</caption></figure>
+        <para id="id4479007">Cuối cùng, màn hình thông báo sau cho biết người dùng đã trở thành thành viên của hệ thống, với tên đăng nhập và mật khẩu đã được thiết lập. </para>
+        <figure id="id4479020"><media id="id1168521131153" alt=""><image src="../../media/graphics8-26b8.png" mime-type="image/png" height="83" width="521"/></media>
+           <caption> Thông báo mật khẩu đã được thiết lập thành công</caption></figure>
+        <para id="id4479044">Như vậy, các thao tác đăng ký thành viên của hệ thống đã được hoàn tất. Từ lúc này, người dùng có thể đăng nhập hệ thống bằng tài khoản của mình để bắt đầu công việc đóng góp tri thức cho cộng đồng.</para>
+      </section>
+      <section id="id-900216461863">
+        <title>Đăng nhập và làm quen với Khu vực làm việc</title>
+        <para id="id4479066">Từ khu vực số 6 trên trang chủ, nhập Username và Password như hình minh họa rồi nhấn nút login.</para>
+        <figure id="id4140005"><media id="id1168532782728" alt=""><image src="../../media/graphics9-d82c.png" mime-type="image/png" height="216" width="190"/></media>
+           <caption> Tác giả đăng nhập </caption></figure>
+        <para id="id4140029">Màn hình sau đây hiện ra thông báo bạn đã đăng nhập thành công.</para>
+        <figure id="id4140039"><media id="id1168517515580" alt=""><image src="../../media/graphics10-871e.png" mime-type="image/png" height="308" width="600"/></media>
+           <caption> Màn hình sau khi đăng nhập </caption></figure>
+        <para id="id4140063">Sau khi đăng nhập, người dùng có thể:</para>
+        <list id="id4140069" list-type="bulleted">
+          <item>Go to Author Word Area: Truy cập tới khu vực làm việc của tác giả</item>
+          <item>View/Edit Author Profile: Xem/Sửa thông tin cá nhân tác giả</item>
+          <item>View/Edit Account Preferences: Xem/sửa thông tin thành viên</item>
+        </list>
+        <para id="id4140095">Để nhanh chóng tới khu vực làm việc và làm việc với các Module/Course…, người dùng nhấn chuột vào Go to Author Work Area như hình minh họa. Màn hình sau đây hiện ra cho phép người dùng lựa chọn 2 chức năng chính:</para>
+        <list id="id4140117" list-type="enumerated">
+          <item>Tạo mới Module (soạn trực tiếp hoặc đưa lên hệ thống từ các tệp MS Word đã có sẵn)</item>
+          <item>Tái sử dụng Module của các thành viên khác (đã xuất bản trong hệ thống)</item>
+        </list>
+      </section>
+      <section id="id-293101001791">
+        <title>Các bước giúp Tác giả tạo mới Module từ tệp MS Word sẵn có</title>
+        <figure id="id4140151"><media id="id1168525118268" alt=""><image src="../../media/graphics11-6f69.png" mime-type="image/png" height="341" width="599"/></media>
+           <caption> Chức năng tạo mới Module từ đầu và Chức năng tái sử dụng các Module sẵn có</caption></figure>
+        <para id="id4107744">Bước 1: Chọn chức năng tạo mới Module trong Khu vực làm việc</para>
+        <para id="id4107754">Nhấn chuột vào hộp chọn Select ở khu vực số 1, chọn Module, sau đó nhấn nút Create new Item</para>
+        <para id="id4107790">Chú ý: Khu vực số 2 dành cho các Tác giả tạo mới Module từ những Module sẵn có trên hệ thống (Sẽ trình bày ở phần tiếp sau)</para>
+        <figure id="id4107802"><media id="id1168530338634" alt=""><image src="../../media/graphics12-e5ce.png" mime-type="image/png" height="342" width="600"/></media>
+           <caption> Chức năng tạo mới Module</caption></figure>
+        <para id="id4107826">Bước 2: Đọc và đồng ý với giấy phép sử dụng Creative Common (Giấy phép sáng tạo dùng chung) phiên bản Attribution (đồng ý chia sẻ, cho phép sửa đổi nhưng yêu cầu giữ nguyên tên tác giả)</para>
+        <figure id="id4107865"><media id="id1168518623566" alt=""><image src="../../media/graphics13-bb3e.png" mime-type="image/png" height="425" width="600"/></media>
+           <caption> Đồng ý với giấy phép Creative Commons</caption></figure>
+        <para id="id4107889">Bước 3: Màn hình kế tiếp tiếp theo thông báo cho phép người dùng tùy chọn ngôn ngữ XML để lưu trữ, mặc định là ngôn ngữ CNXML 0.5 (phiên bản rút gọn). Đối với các tài liệu toán học, người dùng nên tích vào ô chọn Include MathML như hình vẽ rồi nhấn nút next</para>
+        <figure id="id4818735"><media id="id1168515771376" alt=""><image src="../../media/graphics14-104b.png" mime-type="image/png" height="249" width="599"/></media>
+           <caption> Lựa chọn MathML</caption></figure>
+        <para id="id4818758">Bước 4: Điền các thông tin cần thiết cho Module. Có 2 phần bắt buộc phải nhập là Module name (Tên Module) và Language (Ngôn ngữ). Hai phần còn lại là Keywords (từ khóa) và Abstract (Tóm tắt) không bắt buộc. Tuy nhiên, Tác giả Module nên cung cấp đầy đủ các thông tin này và lưu ý, các từ khóa mỗi từ nằm trên một hàng (Như hình minh họa)</para>
+        <para id="id4818788">Chú ý: Các thông tin như Tiêu đề Module, từ khóa, tóm tắt…được nhập trong phần này có thể được chỉnh sửa sau này nếu cần (chỉnh sửa thông tin MetaData)</para>
+        <figure id="id4818816"><media id="id1168532260441" alt=""><image src="../../media/graphics15-ff7a.png" mime-type="image/png" height="548" width="599"/></media>
+           <caption> Điền các thông tin cần thiết cho Module </caption></figure>
+        <para id="id4818840">Sau khi nhấn nút next, màn hình nhập nội dung Module sẽ hiện ra như hình dưới. Người dùng có thể chọn một trong hai cách sau để nhập mới nội dung Module:</para>
+        <para id="id4818862">Cách 1: Tải lên hệ thống (Upload) các Module sẵn có đang được lưu trữ dưới định dạng tệp MS Word.</para>
+        <para id="id4818870">Cách 2: Nhấn chuột vào vị trí số 2 để có thể trực tiếp soạn thảo nội dung Module.</para>
+        <para id="id4818878">Lưu ý: Hiện chức năng soạn thảo nội dung Module, do phải đảm bảo tương thích với CNXML nên môi trường soạn thảo chưa được trực quan như trên môi trường Rich-Text-Editor (giống giao diện của MS Word). Điều này có thể gây khó khăn cho những người dùng đã quen với cách soạn thảo văn bản truyền thống trên MS Word. Chính vì lý do này, chúng tôi đề nghị các Tác giả tập trung sử dụng tính năng Import From Word (Cách 1) để có thể có nội dung Module với định dạng chuẩn và theo đúng ý mình. Chính vì lý do này, chúng ta tiếp tục chuyển sang bước kế tiếp:</para>
+        <figure id="id4818886"><media id="id1168515584425" alt=""><image src="../../media/graphics16-bd9a.png" mime-type="image/png" height="451" width="600"/></media>
+           <caption> Nạp nội dung cho Module </caption></figure>
+        <para id="id5200042">Bước 5: Chọn chức năng Import Microsoft Word </para>
+        <para id="id5200051">Ở màn hình làm việc trên, người dùng nhấn chuột vào nút Import (vị trí 1), màn hình sau đây hiện ra:</para>
+        <figure id="id5200073"><media id="id1168515789175" alt=""><image src="../../media/graphics17-70a5.png" mime-type="image/png" height="415" width="600"/></media>
+           <caption> Chức năng nạp nội dung từ MS Word</caption></figure>
+        <para id="id5200097">Bước 6: Nhấn nút Browse, sau đó chọn tệp MSWord chứa nội dung Module cần đưa lên hệ thống, sau đó nhấn nút Open và nhấn tiếp nút Import (hình vẽ)</para>
+        <figure id="id5200143"><media id="id1168527948154" alt=""><image src="../../media/graphics18-c196.png" mime-type="image/png" height="380" width="599"/></media>
+           <caption> Đưa tệp MS Word lên hệ thống </caption></figure>
+        <para id="id5200167">Màn hình sau đây hiện ra cho người dùng thấy kết quả của việc Import (nhập) nội dung Module từ tệp MS Word trong máy tính lên hệ thống. </para>
+        <figure id="id5200180"><media id="id1168520835941" alt=""><image src="../../media/graphics19-aab9.png" mime-type="image/png" height="413" width="599"/></media>
+           <caption> Chức năng Preview </caption></figure>
+        <para id="id4152165">Màn hình trên đây đồng thời là nơi người dùng có thể trực tiếp chỉnh sửa nội dung (nếu cần). Tuy nhiên, trước khi chỉnh sửa hoặc xuất bản nội dung này, người dùng nên nhấn Preview (xem lại) để xem nội dung này với định dạng đầy đủ.</para>
+        <para id="id4152208">Bước 7: Nhấn Preview, hệ thống hỏi người dùng muốn xem ở chế độ nào?</para>
+        <para id="id4152223">Online Preview (Xem trên nền Web) và PrintPreview (Xem trên nền tệp PDF)</para>
+        <figure id="id4152233"><media id="id1168524929732" alt=""><image src="../../media/graphics20.png" mime-type="image/png" height="209" width="600"/></media>
+           <caption> Chọn chức năng Online Preview </caption></figure>
+        <para id="id4152257">Nếu nhấn vào Online Preview, kết quả sẽ như sau:</para>
+        <figure id="id4152266"><media id="id1168527463153" alt=""><image src="../../media/graphics21.png" mime-type="image/png" height="333" width="599"/></media>
+           <caption> Nội dung Module trên màn hình Online Preview</caption></figure>
+        <para id="id4152290">Và nếu nhấn vào Print Preview, kết quả sẽ như sau (trên máy phải có phần mềm đọc được định dạng file PDF, ví dụ Acrobat reader)</para>
+        <figure id="id4152303"><media id="id1168522605211" alt=""><image src="../../media/graphics22.png" mime-type="image/png" height="420" width="599"/></media>
+           <caption> Nội dung Module trên màn hình PDF Preview </caption></figure>
+        <para id="id4152326">Sau khi đã Xem lại (Preview) nội dung (hình minh họa chức năng Preview):</para>
+        <para id="id4152334">Nếu cần chỉnh sửa, người dùng có thể nhấn chuột vào siêu liên kết sửa đổi </para>
+        <para id="id3954634">Bước 8:Xuất bản Module</para>
+        <para id="id3954642">Nếu đã hài lòng với định dạng mà hệ thống thể hiện, người dùng có thể nhấn chuột vào siêu liên kết xuất bản</para>
+        <figure id="id3954662"><media id="id1168523853323" alt=""><image src="../../media/graphics23.png" mime-type="image/png" height="429" width="599"/></media>
+           <caption> Xuất bản Module </caption></figure>
+        <para id="id3954685">Màn hình trên yêu cầu người dùng kiểm tra lần cuối các thông tin vê Metadata (tóm tắt, từ khóa…)…, sau đó nhập một số thông tin về phiên bản của tài liệu (dễ quản lý sau này, khi tài liệu có nhiều phiên bản khác nhau), và nhấn publish.</para>
+        <para id="id3954700">Bước 9: Tái khẳng định việc xuất bản Module</para>
+        <para id="id3954709">Màn hình sau sẽ yêu cầu người dùng một lần nữa xác nhận việc xuất bản tài liệu.</para>
+        <figure id="id3954720"><media id="id1168515784156" alt=""><image src="../../media/graphics24.png" mime-type="image/png" height="134" width="600"/></media>
+           <caption> Xác nhận việc xuất bản </caption></figure>
+        <para id="id3954744">Sau khi Pubish (xuất bản), tài liệu của Tác giả sẽ hiển thị ra bên ngoài và mọi người đều có quyền đọc (Ở bước này, giống như việc xuất bản sách in, sau khi publish, mọi người chỉ có khả năng đọc mà thôi). Để tài liệu này thực sự có khả năng sửa đổi và chia sẻ, Tác giả cần nhấn nút checkout (nút này có tác dụng cho phép hiệu đính tài liệu này)</para>
+        <para id="id5103978">Bước 10 – Bước cuối: Nhấn nút checkout (Cho phép hiệu đính)</para>
+        <figure id="id5103991"><media id="id1168522841743" alt=""><image src="../../media/graphics25.png" mime-type="image/png" height="319" width="600"/></media>
+           <caption> Nhấn Checkout để Module có khả năng được sửa đổi </caption></figure>
+        <para id="id5104015">Sau khi nhấn checkout, màn hình sau đây hiện ra. Tác giả có thể tiếp tục sửa đổi nội dung (nếu cần) hoặc quay trở về khu vực làm việc (WorkSpace) như hình minh họa:</para>
+        <figure id="id5104040"><media id="id1168530786629" alt=""><image src="../../media/graphics26.png" mime-type="image/png" height="400" width="599"/></media>
+           <caption> Sau khi checkout, quay về khu vực làm việc</caption></figure>
+        <figure id="id5104067"><media id="id1168527952188" alt=""><image src="../../media/graphics27.png" mime-type="image/png" height="289" width="600"/></media>
+           <caption> Màn hình khu vực làm việc </caption></figure>
+        <para id="id5104091">Như vậy, chúng ta vừa tìm hiểu xong các bước nhanh chóng nhất để người dùng có thể xuất bản và chia sẻ Module kiến thức của mình.</para>
+      </section>
+      <section id="id-746447429199">
+        <title>Các bước giúp Tác giả tái sử dụng nội dung Module sẵn có</title>
+        <para id="id5104111">Quay trở về với người dùng có tài khoản phuongdv. Sau khi đăng nhập bằng account phuongdv, ta đi tới Khu vực làm việc của người dùng này. Mục tiêu lần này của ta là tái sử dụng nội dung Module sẵn có trên hệ thống nhờ chức năng search for published content như sau:</para>
+        <figure id="id4151671"><media id="id1168522984187" alt=""><image src="../../media/graphics28.png" mime-type="image/png" height="195" width="600"/></media>
+           <caption> Chức năng tạo mới Module từ các Module sẵn có</caption></figure>
+        <para id="id4151694">Màn hình tìm kiếm nội dung hiện ra, ta lần lượt thực hiện các bước sau đây:</para>
+        <figure id="id4151705"><media id="id1168532482445" alt=""><image src="../../media/graphics29.png" mime-type="image/png" height="396" width="600"/></media>
+           <caption> Màn hình tìm kiếm nội dung  </caption></figure>
+        <para id="id4151729">Bước 1: Gõ từ khóa cần tìm (Ví dụ: Công nghệ Ajax)</para>
+        <para id="id4151751">Bước 2: Nhấn search để bắt đầu tìm kiếm</para>
+        <para id="id4151773">Bước 3: Nhấn vào một/nhiều ô tích chọn trước tiêu đề Module cần tái sử dụng</para>
+        <para id="id4151797">Bước 4: Chọn nơi lưu trữ những Module này (thường là My work space) và nhấn add</para>
+        <para id="id4151824">Người dùng có thể lặp lại 4 bước trên nhiều lần để tìm ra những Module có nội dung phù hợp và sau đó đưa những Module này về khu vực làm việc của mình.</para>
+        <para id="id4151835">Sau khi nhấn add, màn hình sau hiện ra:</para>
+        <figure id="id4151843"><media id="id1168527247488" alt=""><image src="../../media/graphics30.png" mime-type="image/png" height="312" width="599"/></media>
+           <caption> Màn hình khu vực làm việc sau khi đưa Module về </caption></figure>
+        <para id="id4151974">Như vậy, hai Module vừa chọn đã nằm trong khu vực làm việc của phuongdv. </para>
+        <para id="id4151992">Bước 5: Chọn Module cần tái sử dụng</para>
+        <para id="id4151998">Để có thể tái sử dụng nội dung Module nào, ta nhấn chuột vào tiêu đề Module đó, màn hình soạn thảo nội dung Module sẽ hiện ra. </para>
+        <para id="id4152005">Màn hình dưới đây hiển thị nội dung của Module Ứng dụng Ajax xây dựng Module Từ điển trực tuyến. </para>
+        <figure id="id4152023"><media id="id1168522805157" alt=""><image src="../../media/graphics31.png" mime-type="image/png" height="528" width="599"/></media>
+           <caption> Soạn trực tiếp nội dung Module </caption></figure>
+        <para id="id4152047">Bước 6: Tiến hành thêm mới/chỉnh sửa nội dung Module đã chọn</para>
+        <para id="id4152057">Để soạn thảo đoạn văn bản nào, người dùng nhấn chuột vào đoạn văn bản đó. Màn hình soạn thảo sẽ hiện ra. Sau khi sửa đổi nội dung, nhấn Save để ghi lại.</para>
+        <figure id="id4152080"><media id="id1168532352263" alt=""><image src="../../media/graphics32.png" mime-type="image/png" height="264" width="600"/></media>
+           <caption> Ghi lại sự thay đổi </caption></figure>
+        <para id="id4152104">Lặp lại các bước sửa đổi trên cho các đoạn văn bản khác (nếu cần)</para>
+        <para id="id4152111">Bước 7: Nhấn Publish và lựa chọn một trong 2 việc trên màn hình dưới đây:</para>
+        <list id="id4152121" list-type="bulleted">
+          <item>1. Suggest your edits: Gửi gợi ý sửa đổi nội dung tới tác giả gốc hoặc Người duy trì nội dung.</item>
+          <item>2. Create a new Module: Tạo mới một phiên bản mới dựa trên Module đã có. (Việc này có thể hiểu như sau: Người dùng phuongdv, sau khi mang nội dung Module của người dùng minhdn xong thì không thể publish theo kiểu ghi đè lên Module cũ được mà cần phải tạo ra một phiên bản mới, độc lập với phiên bản cũ (giống như Save as…))</item>
+        </list>
+        <figure id="id4377907"><media id="id1168528509134" alt=""><image src="../../media/graphics33.png" mime-type="image/png" height="173" width="599"/></media>
+           <caption> Hai chức năng sau khi thay đổi nội dung Module </caption></figure>
+        <para id="id4377930">Nếu nhấn chọn chức năng ở vị trí số 1, màn hình sau hiện ra, ta mô tả những ý kiến sửa đổi của mình rồi nhấn Send edits</para>
+        <figure id="id4377950"><media id="id1168521006540" alt=""><image src="../../media/graphics34.png" mime-type="image/png" height="257" width="600"/></media>
+           <caption> Chức năng chuyển khuyến cáo sửa đổi cho tác giả gốc</caption></figure>
+        <para id="id4377974">Nếu nhấn chọn chức năng ở vị trí số 2, màn hình sau hiện ra, xác nhận 1 lần nữa việc người dùng sẽ tạo một phiên bản mới của Module và đồng ý với giấy phép chia sẻ Sáng tạo dùng chung (Creative Common Atribution License)</para>
+        <para id="id4377988">Bước 8: Đồng ý với điều khoản của giấy phép và nhấn Yes, create copy</para>
+        <figure id="id4378018"><media id="id1168520841975" alt=""><image src="../../media/graphics35.png" mime-type="image/png" height="219" width="599"/></media>
+           <caption> Chức năng tạo mới một bản copy trong khu vực làm việc</caption></figure>
+        <para id="id4378041">Bước 9. Nhấn publish để xuất bản phiên bản Module mới này</para>
+        <figure id="id4378059"><media id="id1168523820505" alt=""><image src="../../media/graphics36.png" mime-type="image/png" height="388" width="600"/></media>
+           <caption> Xuất bản phiên bản mới </caption></figure>
+        <para id="id5097946">Bước 10: Điền các thông tin mô tả sự thay đổi và nhấn publish</para>
+        <figure id="id5097967"><media id="id1168528598328" alt=""><image src="../../media/graphics37.png" mime-type="image/png" height="381" width="575"/></media>
+           <caption> Ghi lại sự thay đổi </caption></figure>
+        <para id="id5097991">Bước 11: Màn hình sau hiện ra, thông báo rằng hiện tại Module chưa được Publish do chưa có sự phản hồi đồng ý từ tác giả gốc.</para>
+        <figure id="id5098011"><media id="id1168520883934" alt=""><image src="../../media/graphics38.png" mime-type="image/png" height="429" width="599"/></media>
+           <caption> Chưa được quyền xuất bản khi chưa được tác giả gốc đồng ý </caption></figure>
+        <para id="id5098035">Như vậy, trong lúc này, phía tác giả gốc của Module (tài khoản minhdn), cần đăng nhập vào khu vực làm việc của mình </para>
+        <figure id="id5098047"><media id="id1168530457770" alt=""><image src="../../media/graphics39.png" mime-type="image/png" height="296" width="188"/></media>
+           <caption> Tác giả gốc đăng nhập </caption></figure>
+        <para id="id5098071">Sau khi đăng nhập, tác giả gốc của Module sẽ nhìn thấy dòng 1 role request. Đây chính là thông báo về việc có một yêu cầu tới tác giả gốc về việc có một tác giả khác tái sử dụng nội dung Module và hỏi ý kiến về việc đứng tên đồng tác giả trong Module mới này.</para>
+        <figure id="id5098097"><media id="id1168525228506" alt=""><image src="../../media/graphics40.png" mime-type="image/png" height="383" width="601"/></media>
+           <caption> Sau khi đăng nhập, thấy một yêu cầu vai trò đang đợi</caption></figure>
+        <para id="id5098121">Nhấn chuột vào liên kết 1 Role Request, màn hình sau hiện ra </para>
+        <figure id="id4107925"><media id="id1168517798697" alt=""><image src="../../media/graphics41.png" mime-type="image/png" height="379" width="600"/></media>
+           <caption> Đồng ý với lời yêu cầu làm đồng tác giả </caption></figure>
+        <para id="id4107949">Nhấn chọn vào ô trước tiêu đề Module, sau đó nhấn accept (nếu thực sự đồng ý đứng tên đồng tác giả Module). Sau khi nhấn chuột, màn hình sau đây hiện ra, thông báo rằng đã chấp nhận yêu cầu và hiện không còn yêu cầu nào chờ nữa.</para>
+        <figure id="id4107966"><media id="id1168527316159" alt=""><image src="../../media/graphics42.png" mime-type="image/png" height="308" width="600"/></media>
+           <caption> Yêu cầu đã được xử lý </caption></figure>
+        <para id="id4107990">Quay trở lại với màn hình làm việc của phuongdv, bây giờ thì tác giả phuongdv đã có thể publish nội dung Module này.</para>
+        <para id="id4108019">Màn hình dưới đây cho thấy, tác giả Module gồm 2 người và hệ thống cũng chỉ rõ rằng nội dung Module mới này dựa trên nội dung Module nào, của tác giả gì.</para>
+        <figure id="id4108033"><media id="id1168527785318" alt=""><image src="../../media/graphics43.png" mime-type="image/png" height="431" width="599"/></media>
+           <caption> Giờ thì đã có thể xuât bản Module </caption></figure>
+      </section>
+    </section>
+  </content>
+</document>

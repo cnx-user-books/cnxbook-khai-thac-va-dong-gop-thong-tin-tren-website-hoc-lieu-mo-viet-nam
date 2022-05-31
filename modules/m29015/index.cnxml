@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Sử dụng website www.vocw.edu.vn với vai trò Bạn đọc/Người tra cứu</title>
+  <metadata>
+  <md:content-id>m29015</md:content-id><md:title>Sử dụng website www.vocw.edu.vn với vai trò Bạn đọc/Người tra cứu</md:title>
+  <md:abstract/>
+  <md:uuid>477a63da-fe84-4354-84fd-f76bfdaf734f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-517456487611">
+      <title>Sử dụng Website với vai trò của Bạn đọc/Người tra cứu </title>
+      <para id="id3941382">Từ trang chủ, có 2 cách để tra cứu nội dung thông tin trong Website:</para>
+      <section id="id-0892396862629">
+        <title>Cách 1: Tìm kiếm trực tiếp trên trang chủ (Homepage)</title>
+        <para id="id3941400">Người dùng tra cứu bằng cách gõ từ khóa cần tìm vào ô nhập liệu (khu vực số 4) và nhấn nút tìm </para>
+        <figure id="id4725457"><media id="id7385487" alt=""><image src="../../media/graphics1-a830.png" mime-type="image/png" height="190" width="355"/></media>
+           <caption> Màn hình tìm kiếm nội dung trên trang chủ </caption></figure>
+        <para id="id4725481">Ở màn hình trên, sau khi gõ từ khóa khái niệm và nhấn nút tìm, màn hình kết quả tìm kiếm tương ứng với từ khóa khái niệm sẽ hiện ra như sau:</para>
+        <figure id="id4821100"><media id="id7386048" alt=""><image src="../../media/graphics2-ed95.png" mime-type="image/png" height="368" width="600"/></media>
+           <caption> Kết quả tìm kiếm </caption></figure>
+        <para id="id4821124">Chú ý: <media id="id7371592" alt=""><image src="../../media/graphics3-5715.png" mime-type="image/png" height="19" width="19"/></media> là biểu tượng của Module (khối kiến thức nhỏ)</para>
+        <para id="id3956002"><media id="id7357774" alt=""><image src="../../media/graphics4-44ab.png" mime-type="image/png" height="16" width="20"/></media> là biểu tượng của Course (giáo trình/ bài giảng)</para>
+        <para id="id4783866">Sau khi nhấn chuột vào tiêu đề của Module/Course trong danh sách kết quả tìm kiếm, toàn văn nội dung Module/Course đó sẽ hiện ra như sau:</para>
+        <figure id="id4783898"><media id="id7358715" alt=""><image src="../../media/graphics5-81d2.png" mime-type="image/png" height="312" width="599"/></media>
+           <caption> Toàn văn Module </caption></figure>
+        <para id="id4783922">Trong quá trình đọc toàn văn nội dung bài viết, người dùng có thể:</para>
+        <list id="id3955866" list-type="bulleted">
+          <item>Sử dụng chức năng in ấn (PDF) để hệ thống sinh tệp PDF cho nội dung bài này và người dùng có thể tải tệp PDF này về máy tính (Xem offline hoặc để in ấn)</item>
+          <item>Xem các tài liệu có liên quan (hệ thống tự động đưa ra các Module/Course có cùng từ khóa hoặc cùng nội dung liên quan)</item>
+        </list>
+        <figure id="id3955895"><media id="id7413013" alt=""><image src="../../media/graphics6-4e61.png" mime-type="image/png" height="356" width="600"/></media>
+           <caption> Chức năng in PDF</caption></figure>
+        <para id="id3955919">Người dùng có thể mở trực tiếp (Open) tệp PDF trên hoặc ghi (save) vào máy tính sau đó mở ra bằng phần mềm đọc file PDF (Ví dụ Acrobat reader). Nội dung Module sẽ hiển thị như sau:</para>
+        <figure id="id3946676"><media id="id7363940" alt=""><image src="../../media/graphics7-e11e.png" mime-type="image/png" height="415" width="600"/></media>
+           <caption> Hiển thị nội dung Module dưới định dạng PDF</caption></figure>
+        <para id="id3946700">Như vậy, người dùng với cách gõ trực tiếp từ khóa cần tìm trên ô tìm kiếm, sau vài thao tác nhấn chuột đơn giản, đã có thể xem nội dung Module/Course cần tìm trên trình duyệt web hoặc dưới định dạng của tệp tin PDF. </para>
+        <para id="id3946713">Để có thể có được kết quả tìm kiếm/tra cứu theo các tiêu chí khác nhau, người dùng có thể sử dụng các chức năng tra cứu theo Chủ đề, Ngôn ngữ, Số lượng người xem, Tiêu đề, tác giả… ở phía dưới ô tìm kiếm. Theo hình minh họa dưới đây, khi người dùng di chuyển chuột qua tiêu chí nào, danh sách các tiêu chí phụ đi theo sẽ hiển thị ngay ở phía bên phải. Người dùng nhấn chuột vào một trong các tiêu chí phụ tương ứng để có thể đến với chuyên trang tìm kiếm nội dung (Content) với các tiêu chí đã được lựa chọn sẵn. Cách thức sử dụng chuyên trang này sẽ được trình bày chi tiết trong phần kế tiếp sau đây.</para>
+        <figure id="id4143727"><media id="id7385373" alt=""><image src="../../media/graphics8-47d0.png" mime-type="image/png" height="275" width="600"/></media>
+           <caption> Tìm kiếm theo các tiêu chí khác nhau </caption></figure>
+      </section>
+      <section id="id-0994253424944">
+        <title>Cách 2 – Sử dụng chuyên trang tìm kiếm nội dung (Content)</title>
+        <para id="id4143761">Nhấn chuột vào siêu liên kết content để đến với Chuyên trang tìm kiếm nội dung (xem hình minh họa). Tại chuyên trang này, người tra cứu có thể:</para>
+        <list id="id4158749" list-type="bulleted">
+          <item>Gõ từ khóa cần tìm vào ô soạn thảo rồi nhấn nút search</item>
+          <item>Hoặc lần lượt làm theo 3 bước như chỉ dẫn ở phần Browse Content</item>
+        </list>
+        <para id="id4158769">Bước 1: Nhấn chuột vào các tiêu chí (Ví dụ: Title - liệt kê theo tiêu đề)</para>
+        <para id="id4158776">Bước 2: Nhấn chuột vào chữ cái bất kỳ để tra theo thứ tự Alphabet.</para>
+        <para id="id3955210">Bước 3: Nhấn chuột vào tên tiêu đề cần xem để hiển thị toàn văn bài viết.</para>
+        <para id="id3955218">Sau khi toàn văn bài viết đã được hiển thị trên trình duyệt web, các thao tác duyệt thông tin, in PDF, xem các nội dung có liên quan… tương tự như các thao tác trong Cách 1.</para>
+        <figure id="id3955232"><media id="id7368140" alt=""><image src="../../media/graphics9-e472.png" mime-type="image/png" height="450" width="600"/></media>
+           <caption> Màn hình chuyên trang tìm kiếm nội dung Content </caption></figure>
+      </section>
+    </section>
+  </content>
+</document>

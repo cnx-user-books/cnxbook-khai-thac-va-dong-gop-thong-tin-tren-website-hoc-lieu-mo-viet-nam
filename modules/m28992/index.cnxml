@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Các bước giúp Giảng viên sắp xếp các Module sẵn có thành Giáo trình, Bài giảng</title>
+  <metadata>
+  <md:content-id>m28992</md:content-id><md:title>Các bước giúp Giảng viên sắp xếp các Module sẵn có thành Giáo trình, Bài giảng</md:title>
+  <md:abstract/>
+  <md:uuid>7c6e814d-1fc8-4f8c-b451-e25bbc67e655</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-730538273767">
+      <title>Các bước giúp Giảng viên sắp xếp các Module sẵn có thành Giáo trình/Bài giảng</title>
+      <para id="id5138800">Quay trở về màn hình <link target-id="id4955479">Khu vực làm việc </link> của account <emphasis>phuongdv</emphasis> (hình minh họa)</para>
+      <figure id="id5138830"><media id="id1168951332668" alt=""><image src="../../media/graphics1-dadd.png" mime-type="image/png" height="312" width="599"/></media>
+	<caption> Minh họa ảnh 1 </caption></figure>
+      <para id="id5138854">Giả sử phuongdv muốn xây dựng một khóa học ngắn giới thiệu về Công nghệ Ajax và công nghệ Wap, với vai trò của một Giảng viên, phuongdv cần xây dựng một kịch bản (một trình tự hợp lý của các Module), sau đó tìm và đưa các Module sẵn có trên hệ thống vào kịch bản của mình, tạo thành một Course (Giáo trình/bài giảng) về Ajax và Wap. Giả sử kịch bản giáo trình của phuongdv như sau:</para>
+      <para id="id5138912">Chương 1: Ajax và ứng dụng</para>
+      <para id="id5138917">Giới thiệu tổng quan về Ajax</para>
+      <para id="id5138923">Ứng dụng Ajax xây dựng Module từ điển trực tuyến</para>
+      <para id="id5138928">Chương 2: Wap và ứng dụng</para>
+      <para id="id5138933">Giới thiệu về Wap, xây dựng ứng dụng Wap trên nền máy chủ IIS</para>
+      <para id="id5138941">Phuongdv sẽ lần lượt thao tác như sau để có thể tạo được Course theo kịch bản trên:</para>
+      <para id="id3307150">Bước 1: Nhấn chuột vào ô lựa chọn, chọn Course và nhấn create new item</para>
+      <figure id="id3307180">
+        <media id="id3332858" alt=""><image src="../../media/graphics2-7f7f.png" mime-type="image/png" height="334" width="600"/></media>
+      </figure>
+      <para id="id3307204">Bước 2: Đồng ý với các điều khoản giấy phép, bản quyền bằng cách nhấn chuột vào ô chọn vuông và nhấn next</para>
+      <figure id="id3307227">
+        <media id="id1168947616098" alt=""><image src="../../media/graphics3-d84b.png" mime-type="image/png" height="300" width="600"/></media>
+      </figure>
+      <para id="id3307251">Bước 3: Điền đầy đủ thông tin về giáo trình, bao gồm Tiêu đề, ngôn ngữ (bắt buộc) và từ khóa, tóm tắt. Sau đó nhấn next</para>
+      <figure id="id3307275">
+        <media id="id1168944567738" alt=""><image src="../../media/graphics4-075b.png" mime-type="image/png" height="618" width="572"/></media>
+      </figure>
+      <para id="id3307299">Bước 4: Chuyển sang tab Content như hình vẽ</para>
+      <figure id="id3307324">
+        <media id="id1168949015338" alt=""><image src="../../media/graphics5-3ae4.png" mime-type="image/png" height="261" width="613"/></media>
+      </figure>
+      <para id="id3307348">Bước 5: Nhấn chuột vào nút add new section để tạo mới chương 1</para>
+      <figure id="id3307373">
+        <media id="id7467862" alt=""><image src="../../media/graphics6-b115.png" mime-type="image/png" height="446" width="600"/></media>
+      </figure>
+      <para id="id4955280">Bước 6: Điền tiêu đề chương rồi nhấn save</para>
+      <figure id="id4955301">
+        <media id="id1168949150982" alt=""><image src="../../media/graphics7-3d04.png" mime-type="image/png" height="400" width="600"/></media>
+      </figure>
+      <para id="id4955325">Bước 7: Gõ từ khóa cần tìm để liệt kê các Module phù hợp với nội dung chương (ví dụ gõ ajax và nhấn search)</para>
+      <figure id="id4955363">
+        <media id="id1168947956816" alt=""><image src="../../media/graphics8-c8d8.png" mime-type="image/png" height="345" width="599"/></media>
+      </figure>
+      <para id="id4955387">Bước 8: Chọn các Module cần đưa vào chương bằng cách nhấn chuột vào ô chọn trước tên Module, sau đó nhấn add selected content</para>
+      <figure id="id4955411">
+        <media id="id7884210" alt=""><image src="../../media/graphics9-387c.png" mime-type="image/png" height="468" width="560"/></media>
+      </figure>
+      <para id="id4955434">Bước 9: Sắp xếp thứ tự các Module cho phù hợp với tiến trình bài giảng bằng cách sử dụng các dấu mũi tên lên xuống phía bên phải.</para>
+      <figure id="id4955455">
+        <media id="id1168948096172" alt=""><image src="../../media/graphics10-46df.png" mime-type="image/png" height="335" width="600"/></media>
+      </figure>
+      <para id="id4955479">Tương tự như thế, muốn tạo ra Chương 2, nhấn chuột vào tiêu đề giáo trình như hình minh họa, sau đó lại nhấn chuột vào nút add new section</para>
+      <figure id="id4955507">
+        <media id="id1168950856829" alt=""><image src="../../media/graphics11-4b57.png" mime-type="image/png" height="296" width="600"/></media>
+      </figure>
+      <para id="id4955531">Tiếp tục tương tự như trước, gõ tiêu đề chương 2 và nhấn save</para>
+      <figure id="id4955551">
+        <media id="id7970584" alt=""><image src="../../media/graphics12-c362.png" mime-type="image/png" height="317" width="600"/></media>
+      </figure>
+      <para id="id4955575">Tiếp theo, tương tự như các bước trên, tiếp tục tìm các nội dung Module phù hợp bằng cách gõ từ khóa tìm kiếm</para>
+      <figure id="id4955590">
+        <media id="id1168948516557" alt=""><image src="../../media/graphics13-86ca.png" mime-type="image/png" height="298" width="600"/></media>
+      </figure>
+      <para id="id4955614">Và tìm được Module nào thì chọn Module đó và nhấn add selected content.</para>
+      <figure id="id4955624">
+        <media id="id5218932" alt=""><image src="../../media/graphics14-9703.png" mime-type="image/png" height="421" width="600"/></media>
+      </figure>
+      <para id="id4955648">Bước 10: Sau khi đã tạo xong nội dung giáo trình, nhấn chuột vào chức năng preview để xem trước giáo trình sẽ hiển thị như thế nào.</para>
+      <figure id="id4955668">
+        <media id="id2256516" alt=""><image src="../../media/graphics15-d0fd.png" mime-type="image/png" height="290" width="600"/></media>
+      </figure>
+      <para id="id4955692">Màn hình dưới đây cho thấy Course được hiển thị với đầy đủ thông tin tiêu đề, mục lục, tác giả Course, đồng tác giả Module,…</para>
+      <figure id="id4955708">
+        <media id="id1168945875378" alt=""><image src="../../media/graphics16-2d1c.png" mime-type="image/png" height="290" width="600"/></media>
+      </figure>
+      <para id="id4504904">Bước 11: Sau khi đã hài lòng với nội dung hiển thị preview, nhấn back để quay lại màn hình soạn thảo, sau đó nhấn publish để xuất bản Course. Gõ nội dung thông tin mô tả về phiên bản Course này, sau đó nhấn publish.</para>
+      <figure id="id4504928">
+        <media id="id8025838" alt=""><image src="../../media/graphics17-9192.png" mime-type="image/png" height="444" width="600"/></media>
+      </figure>
+      <para id="id4504952">Bước 12: Tái khẳng định việc xuất bản Course bằng việc nhấn yes, publish</para>
+      <figure id="id4504969">
+        <media id="id1168942206352" alt=""><image src="../../media/graphics18-490d.png" mime-type="image/png" height="132" width="599"/></media>
+      </figure>
+      <para id="id4504993">Bước 13: Đọc toàn bộ thông tin liên quan đến Course và nhấn nút Checkout để Course có khả năng hiệu đính và tái sử dụng.</para>
+      <figure id="id4505013">
+        <media id="id1168942659599" alt=""><image src="../../media/graphics19-07d8.png" mime-type="image/png" height="421" width="600"/></media>
+      </figure>
+      <para id="id4505037">Như vậy, thông qua một số bước đơn giản (chủ yếu là nhấn chuột), người giảng viên đã có thể nhanh chóng tạo cho mình một Course dựa trên những Module kiến thức phù hợp sẵn có trên hệ thống.</para>
+    </section>
+  </content>
+</document>
