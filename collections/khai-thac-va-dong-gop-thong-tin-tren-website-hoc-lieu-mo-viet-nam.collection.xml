@@ -1,3 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10844</md:content-id>  <md:title>Khai thác và đóng góp thông tin trên Website Học liệu mở Việt Nam</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>      <md:uuid>5d41c9c0-e4df-4531-b191-b011ba4bb559</md:uuid>
-<md:slug>khai-thac-va-dong-gop-thong-tin-tren-website-hoc-lieu-mo-viet-nam</md:slug>
-</metadata>  <col:content>          <col:module document="m29018"/>                            <col:module document="m29015"/>                            <col:module document="m29013"/>                            <col:module document="m28992"/>                            <col:module document="m29001"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Do Ngoc Minh">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10844</md:content-id>
+    <md:title>Khai th&#xE1;c v&#xE0; &#x111;&#xF3;ng g&#xF3;p th&#xF4;ng tin tr&#xEA;n Website H&#x1ECD;c li&#x1EC7;u m&#x1EDF; Vi&#x1EC7;t Nam</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>5d41c9c0-e4df-4531-b191-b011ba4bb559</md:uuid>
+    <md:slug>khai-thac-va-dong-gop-thong-tin-tren-website-hoc-lieu-mo-viet-nam</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m29018"/>
+    <col:module document="m29015"/>
+    <col:module document="m29013"/>
+    <col:module document="m28992"/>
+    <col:module document="m29001"/>
+  </col:content>
+</col:collection>
